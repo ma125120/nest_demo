@@ -1,0 +1,59 @@
+@import 'reset.scss';
+
+* {
+	padding: 0;
+	margin: 0;
+}
+.page {
+	min-height: 100vh;
+}
+
+.flex {
+	display: flex;
+}
+.column {
+	display: flex;
+	flex-direction: column;
+}
+.align-center {
+	display: flex;
+	align-items: center;
+}
+.between {
+	display: flex;
+	justify-content: space-between;
+}
+.between-center {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.all-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.wrap {
+	flex-wrap: wrap;
+}
+.flex-1 {
+	flex: 1;
+}
+
+.hover {
+	cursor: pointer;
+}
+body {
+	background: #f9f9f9;
+	--primary: #409eff;
+}
+.table-page {
+	margin-top: 12px;
+}
+.table-top {
+	margin-bottom: 24px;
+}
+
+.form-btns {
+	padding-left: 80px;
+}
