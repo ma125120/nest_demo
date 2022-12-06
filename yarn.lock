@@ -464,7 +464,7 @@
 
 "@nestjs/common@6.3.1":
   version "6.3.1"
-  resolved "http://r.cnpmjs.org/@nestjs/common/download/@nestjs/common-6.3.1.tgz#222f25251eb1b67c6e552e00b266048daa569bbc"
+  resolved "https://r.cnpmjs.org/@nestjs/common/download/@nestjs/common-6.3.1.tgz#222f25251eb1b67c6e552e00b266048daa569bbc"
   integrity sha1-Ii8lJR6xtnxuVS4AsmYEjapWm7w=
   dependencies:
     axios "0.19.0"
@@ -483,7 +483,7 @@
 
 "@nestjs/config@^0.4.0":
   version "0.4.0"
-  resolved "http://r.cnpmjs.org/@nestjs/config/download/@nestjs/config-0.4.0.tgz#5259a87f5603be62faf16fdb026ff4acc3ff7004"
+  resolved "https://r.cnpmjs.org/@nestjs/config/download/@nestjs/config-0.4.0.tgz#5259a87f5603be62faf16fdb026ff4acc3ff7004"
   integrity sha1-Ulmof1YDvmL68W/bAm/0rMP/cAQ=
   dependencies:
     dotenv "8.2.0"
@@ -494,7 +494,7 @@
 
 "@nestjs/core@^6.6.7":
   version "6.11.11"
-  resolved "http://r.cnpmjs.org/@nestjs/core/download/@nestjs/core-6.11.11.tgz#2b97a3e9c2a853f5693ed84daf81c1ee3b2782b4"
+  resolved "https://r.cnpmjs.org/@nestjs/core/download/@nestjs/core-6.11.11.tgz#2b97a3e9c2a853f5693ed84daf81c1ee3b2782b4"
   integrity sha1-K5ej6cKoU/VpPthNr4HB7jsngrQ=
   dependencies:
     "@nuxtjs/opencollective" "0.2.2"
@@ -520,7 +520,7 @@
 
 "@nestjs/jwt@^7.0.0":
   version "7.0.0"
-  resolved "http://r.cnpmjs.org/@nestjs/jwt/download/@nestjs/jwt-7.0.0.tgz#977390ea2d5f61cbf49d3da4df740311b98998db"
+  resolved "https://r.cnpmjs.org/@nestjs/jwt/download/@nestjs/jwt-7.0.0.tgz#977390ea2d5f61cbf49d3da4df740311b98998db"
   integrity sha1-l3OQ6i1fYcv0nT2k33QDEbmJmNs=
   dependencies:
     "@types/jsonwebtoken" "8.3.8"
@@ -528,7 +528,7 @@
 
 "@nestjs/passport@^7.0.0":
   version "7.0.0"
-  resolved "http://r.cnpmjs.org/@nestjs/passport/download/@nestjs/passport-7.0.0.tgz#c59617779b7e5888a0c72039a6980e28fd659518"
+  resolved "https://r.cnpmjs.org/@nestjs/passport/download/@nestjs/passport-7.0.0.tgz#c59617779b7e5888a0c72039a6980e28fd659518"
   integrity sha1-xZYXd5t+WIigxyA5ppgOKP1llRg=
 
 "@nestjs/platform-express@^7.0.0":
@@ -544,7 +544,7 @@
 
 "@nestjs/platform-socket.io@^7.0.8":
   version "7.0.8"
-  resolved "http://r.cnpmjs.org/@nestjs/platform-socket.io/download/@nestjs/platform-socket.io-7.0.8.tgz#c7d4da319635cc7f9dc08d89781656da61db7681"
+  resolved "https://r.cnpmjs.org/@nestjs/platform-socket.io/download/@nestjs/platform-socket.io-7.0.8.tgz#c7d4da319635cc7f9dc08d89781656da61db7681"
   integrity sha1-x9TaMZY1zH+dwI2JeBZW2mHbdoE=
   dependencies:
     socket.io "2.3.0"
@@ -584,7 +584,7 @@
 
 "@nestjs/websockets@^7.0.8":
   version "7.0.8"
-  resolved "http://r.cnpmjs.org/@nestjs/websockets/download/@nestjs/websockets-7.0.8.tgz#d1fcdf96eaf9fb14d7f08bd2715beb6e8db97562"
+  resolved "https://r.cnpmjs.org/@nestjs/websockets/download/@nestjs/websockets-7.0.8.tgz#d1fcdf96eaf9fb14d7f08bd2715beb6e8db97562"
   integrity sha1-0fzflur5+xTX8IvScVvrbo25dWI=
   dependencies:
     iterare "1.2.0"
@@ -701,7 +701,7 @@
 
 "@types/ioredis@^4.0.4":
   version "4.14.9"
-  resolved "http://r.cnpmjs.org/@types/ioredis/download/@types/ioredis-4.14.9.tgz#774387d44d3ad60e1b849044b2b28b96e5813866"
+  resolved "https://r.cnpmjs.org/@types/ioredis/download/@types/ioredis-4.14.9.tgz#774387d44d3ad60e1b849044b2b28b96e5813866"
   integrity sha1-d0OH1E061g4bhJBEsrKLluWBOGY=
   dependencies:
     "@types/node" "*"
@@ -746,7 +746,7 @@
 
 "@types/jsonwebtoken@*", "@types/jsonwebtoken@8.3.8":
   version "8.3.8"
-  resolved "http://r.cnpmjs.org/@types/jsonwebtoken/download/@types/jsonwebtoken-8.3.8.tgz#b27c9156dde2049ae03e56528a53ef5a8294aa82"
+  resolved "https://r.cnpmjs.org/@types/jsonwebtoken/download/@types/jsonwebtoken-8.3.8.tgz#b27c9156dde2049ae03e56528a53ef5a8294aa82"
   integrity sha1-snyRVt3iBJrgPlZSilPvWoKUqoI=
   dependencies:
     "@types/node" "*"
@@ -763,12 +763,12 @@
 
 "@types/node@^14.0.1":
   version "14.0.1"
-  resolved "http://r.cnpmjs.org/@types/node/download/@types/node-14.0.1.tgz#5d93e0a099cd0acd5ef3d5bde3c086e1f49ff68c"
+  resolved "https://r.cnpmjs.org/@types/node/download/@types/node-14.0.1.tgz#5d93e0a099cd0acd5ef3d5bde3c086e1f49ff68c"
   integrity sha1-XZPgoJnNCs1e89W948CG4fSf9ow=
 
 "@types/passport-jwt@^3.0.3":
   version "3.0.3"
-  resolved "http://r.cnpmjs.org/@types/passport-jwt/download/@types/passport-jwt-3.0.3.tgz#47b6c43af668852d7c83e56a23ed9f4515dd1814"
+  resolved "https://r.cnpmjs.org/@types/passport-jwt/download/@types/passport-jwt-3.0.3.tgz#47b6c43af668852d7c83e56a23ed9f4515dd1814"
   integrity sha1-R7bEOvZohS18g+VqI+2fRRXdGBQ=
   dependencies:
     "@types/express" "*"
@@ -777,7 +777,7 @@
 
 "@types/passport-local@^1.0.33":
   version "1.0.33"
-  resolved "http://r.cnpmjs.org/@types/passport-local/download/@types/passport-local-1.0.33.tgz#d245b60c5b801cb3aeca1ffab557d5fe1534260d"
+  resolved "https://r.cnpmjs.org/@types/passport-local/download/@types/passport-local-1.0.33.tgz#d245b60c5b801cb3aeca1ffab557d5fe1534260d"
   integrity sha1-0kW2DFuAHLOuyh/6tVfV/hU0Jg0=
   dependencies:
     "@types/express" "*"
@@ -786,7 +786,7 @@
 
 "@types/passport-strategy@*":
   version "0.2.35"
-  resolved "http://r.cnpmjs.org/@types/passport-strategy/download/@types/passport-strategy-0.2.35.tgz#e52f5212279ea73f02d9b06af67efe9cefce2d0c"
+  resolved "https://r.cnpmjs.org/@types/passport-strategy/download/@types/passport-strategy-0.2.35.tgz#e52f5212279ea73f02d9b06af67efe9cefce2d0c"
   integrity sha1-5S9SEieepz8C2bBq9n7+nO/OLQw=
   dependencies:
     "@types/express" "*"
@@ -794,7 +794,7 @@
 
 "@types/passport@*":
   version "1.0.3"
-  resolved "http://r.cnpmjs.org/@types/passport/download/@types/passport-1.0.3.tgz#e459ed6c262bf0686684d1b05901be0d0b192a9c"
+  resolved "https://r.cnpmjs.org/@types/passport/download/@types/passport-1.0.3.tgz#e459ed6c262bf0686684d1b05901be0d0b192a9c"
   integrity sha1-5FntbCYr8GhmhNGwWQG+DQsZKpw=
   dependencies:
     "@types/express" "*"
@@ -819,7 +819,7 @@
 
 "@types/socket.io@^2.1.4":
   version "2.1.4"
-  resolved "http://r.cnpmjs.org/@types/socket.io/download/@types/socket.io-2.1.4.tgz#674e7bc193c5ccdadd4433f79f3660d31759e9ac"
+  resolved "https://r.cnpmjs.org/@types/socket.io/download/@types/socket.io-2.1.4.tgz#674e7bc193c5ccdadd4433f79f3660d31759e9ac"
   integrity sha1-Z057wZPFzNrdRDP3nzZg0xdZ6aw=
   dependencies:
     "@types/node" "*"
@@ -863,7 +863,7 @@
 
 "@types/uuid@^3.4.4":
   version "3.4.8"
-  resolved "http://r.cnpmjs.org/@types/uuid/download/@types/uuid-3.4.8.tgz#4ba887fcef88bd9a7515ca2de336d691e3e18318"
+  resolved "https://r.cnpmjs.org/@types/uuid/download/@types/uuid-3.4.8.tgz#4ba887fcef88bd9a7515ca2de336d691e3e18318"
   integrity sha1-S6iH/O+IvZp1Fcot4zbWkePhgxg=
 
 "@types/validator@10.11.3":
@@ -1150,7 +1150,7 @@ add@^2.0.6:
 
 after@0.8.2:
   version "0.8.2"
-  resolved "http://r.cnpmjs.org/after/download/after-0.8.2.tgz#fedb394f9f0e02aa9768e702bda23b505fae7e1f"
+  resolved "https://r.cnpmjs.org/after/download/after-0.8.2.tgz#fedb394f9f0e02aa9768e702bda23b505fae7e1f"
   integrity sha1-/ts5T58OAqqXaOcCvaI7UF+ufh8=
 
 ajv-errors@^1.0.0:
@@ -1327,7 +1327,7 @@ array.prototype.flat@^1.2.1:
 
 arraybuffer.slice@~0.0.7:
   version "0.0.7"
-  resolved "http://r.cnpmjs.org/arraybuffer.slice/download/arraybuffer.slice-0.0.7.tgz#3bbc4275dd584cc1b10809b89d4e8b63a69e7675"
+  resolved "https://r.cnpmjs.org/arraybuffer.slice/download/arraybuffer.slice-0.0.7.tgz#3bbc4275dd584cc1b10809b89d4e8b63a69e7675"
   integrity sha1-O7xCdd1YTMGxCAm4nU6LY6aednU=
 
 asn1.js@^4.0.0:
@@ -1376,7 +1376,7 @@ async-each@^1.0.1:
 
 async-limiter@~1.0.0:
   version "1.0.1"
-  resolved "http://r.cnpmjs.org/async-limiter/download/async-limiter-1.0.1.tgz#dd379e94f0db8310b08291f9d64c3209766617fd"
+  resolved "https://r.cnpmjs.org/async-limiter/download/async-limiter-1.0.1.tgz#dd379e94f0db8310b08291f9d64c3209766617fd"
   integrity sha1-3TeelPDbgxCwgpH51kwyCXZmF/0=
 
 asynckit@^0.4.0:
@@ -1386,7 +1386,7 @@ asynckit@^0.4.0:
 
 at-least-node@^1.0.0:
   version "1.0.0"
-  resolved "http://r.cnpmjs.org/at-least-node/download/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
+  resolved "https://r.cnpmjs.org/at-least-node/download/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
   integrity sha1-YCzUtG6EStTv/JKoARo8RuAjjcI=
 
 atob@^2.1.2:
@@ -1406,7 +1406,7 @@ aws4@^1.8.0:
 
 axios@0.19.0:
   version "0.19.0"
-  resolved "http://r.cnpmjs.org/axios/download/axios-0.19.0.tgz#8e09bff3d9122e133f7b8101c8fbdd00ed3d2ab8"
+  resolved "https://r.cnpmjs.org/axios/download/axios-0.19.0.tgz#8e09bff3d9122e133f7b8101c8fbdd00ed3d2ab8"
   integrity sha1-jgm/89kSLhM/e4EByPvdAO09Krg=
   dependencies:
     follow-redirects "1.5.10"
@@ -1470,7 +1470,7 @@ babel-preset-jest@^25.2.1:
 
 backo2@1.0.2:
   version "1.0.2"
-  resolved "http://r.cnpmjs.org/backo2/download/backo2-1.0.2.tgz#31ab1ac8b129363463e35b3ebb69f4dfcfba7947"
+  resolved "https://r.cnpmjs.org/backo2/download/backo2-1.0.2.tgz#31ab1ac8b129363463e35b3ebb69f4dfcfba7947"
   integrity sha1-MasayLEpNjRj41s+u2n038+6eUc=
 
 balanced-match@^1.0.0:
@@ -1480,7 +1480,7 @@ balanced-match@^1.0.0:
 
 base64-arraybuffer@0.1.5:
   version "0.1.5"
-  resolved "http://r.cnpmjs.org/base64-arraybuffer/download/base64-arraybuffer-0.1.5.tgz#73926771923b5a19747ad666aa5cd4bf9c6e9ce8"
+  resolved "https://r.cnpmjs.org/base64-arraybuffer/download/base64-arraybuffer-0.1.5.tgz#73926771923b5a19747ad666aa5cd4bf9c6e9ce8"
   integrity sha1-c5JncZI7Whl0etZmqlzUv5xunOg=
 
 base64-js@^1.0.2:
@@ -1490,7 +1490,7 @@ base64-js@^1.0.2:
 
 base64id@2.0.0:
   version "2.0.0"
-  resolved "http://r.cnpmjs.org/base64id/download/base64id-2.0.0.tgz#2770ac6bc47d312af97a8bf9a634342e0cd25cb6"
+  resolved "https://r.cnpmjs.org/base64id/download/base64id-2.0.0.tgz#2770ac6bc47d312af97a8bf9a634342e0cd25cb6"
   integrity sha1-J3Csa8R9MSr5eov5pjQ0LgzSXLY=
 
 base@^0.11.1:
@@ -1515,7 +1515,7 @@ bcrypt-pbkdf@^1.0.0:
 
 better-assert@~1.0.0:
   version "1.0.2"
-  resolved "http://r.cnpmjs.org/better-assert/download/better-assert-1.0.2.tgz#40866b9e1b9e0b55b481894311e68faffaebc522"
+  resolved "https://r.cnpmjs.org/better-assert/download/better-assert-1.0.2.tgz#40866b9e1b9e0b55b481894311e68faffaebc522"
   integrity sha1-QIZrnhueC1W0gYlDEeaPr/rrxSI=
   dependencies:
     callsite "1.0.0"
@@ -1549,7 +1549,7 @@ bindings@^1.5.0:
 
 blob@0.0.5:
   version "0.0.5"
-  resolved "http://r.cnpmjs.org/blob/download/blob-0.0.5.tgz#d680eeef25f8cd91ad533f5b01eed48e64caf683"
+  resolved "https://r.cnpmjs.org/blob/download/blob-0.0.5.tgz#d680eeef25f8cd91ad533f5b01eed48e64caf683"
   integrity sha1-1oDu7yX4zZGtUz9bAe7UjmTK9oM=
 
 bluebird@^3.5.5:
@@ -1701,7 +1701,7 @@ bser@2.1.1:
 
 buffer-equal-constant-time@1.0.1:
   version "1.0.1"
-  resolved "http://r.cnpmjs.org/buffer-equal-constant-time/download/buffer-equal-constant-time-1.0.1.tgz#f8e71132f7ffe6e01a5c9697a4c6f3e48d5cc819"
+  resolved "https://r.cnpmjs.org/buffer-equal-constant-time/download/buffer-equal-constant-time-1.0.1.tgz#f8e71132f7ffe6e01a5c9697a4c6f3e48d5cc819"
   integrity sha1-+OcRMvf/5uAaXJaXpMbz5I1cyBk=
 
 buffer-from@1.x, buffer-from@^1.0.0:
@@ -1787,7 +1787,7 @@ cache-base@^1.0.1:
 
 callsite@1.0.0:
   version "1.0.0"
-  resolved "http://r.cnpmjs.org/callsite/download/callsite-1.0.0.tgz#280398e5d664bd74038b6f0905153e6e8af1bc20"
+  resolved "https://r.cnpmjs.org/callsite/download/callsite-1.0.0.tgz#280398e5d664bd74038b6f0905153e6e8af1bc20"
   integrity sha1-KAOY5dZkvXQDi28JBRU+borxvCA=
 
 callsites@^3.0.0:
@@ -1930,7 +1930,7 @@ class-validator@^0.12.0-rc.0:
 
 cli-color@1.4.0:
   version "1.4.0"
-  resolved "http://r.cnpmjs.org/cli-color/download/cli-color-1.4.0.tgz#7d10738f48526824f8fe7da51857cb0f572fe01f"
+  resolved "https://r.cnpmjs.org/cli-color/download/cli-color-1.4.0.tgz#7d10738f48526824f8fe7da51857cb0f572fe01f"
   integrity sha1-fRBzj0hSaCT4/n2lGFfLD1cv4B8=
   dependencies:
     ansi-regex "^2.1.1"
@@ -2016,7 +2016,7 @@ clone@^1.0.2:
 
 cluster-key-slot@^1.1.0:
   version "1.1.0"
-  resolved "http://r.cnpmjs.org/cluster-key-slot/download/cluster-key-slot-1.1.0.tgz#30474b2a981fb12172695833052bc0d01336d10d"
+  resolved "https://r.cnpmjs.org/cluster-key-slot/download/cluster-key-slot-1.1.0.tgz#30474b2a981fb12172695833052bc0d01336d10d"
   integrity sha1-MEdLKpgfsSFyaVgzBSvA0BM20Q0=
 
 co@^4.6.0:
@@ -2085,7 +2085,7 @@ commander@^2.20.0:
 
 commander@^5.0.0:
   version "5.0.0"
-  resolved "http://r.cnpmjs.org/commander/download/commander-5.0.0.tgz#dbf1909b49e5044f8fdaf0adc809f0c0722bdfd0"
+  resolved "https://r.cnpmjs.org/commander/download/commander-5.0.0.tgz#dbf1909b49e5044f8fdaf0adc809f0c0722bdfd0"
   integrity sha1-2/GQm0nlBE+P2vCtyAnwwHIr39A=
 
 commondir@^1.0.1:
@@ -2095,12 +2095,12 @@ commondir@^1.0.1:
 
 component-bind@1.0.0:
   version "1.0.0"
-  resolved "http://r.cnpmjs.org/component-bind/download/component-bind-1.0.0.tgz#00c608ab7dcd93897c0009651b1d3a8e1e73bbd1"
+  resolved "https://r.cnpmjs.org/component-bind/download/component-bind-1.0.0.tgz#00c608ab7dcd93897c0009651b1d3a8e1e73bbd1"
   integrity sha1-AMYIq33Nk4l8AAllGx06jh5zu9E=
 
 component-emitter@1.2.1:
   version "1.2.1"
-  resolved "http://r.cnpmjs.org/component-emitter/download/component-emitter-1.2.1.tgz#137918d6d78283f7df7a6b7c5a63e140e69425e6"
+  resolved "https://r.cnpmjs.org/component-emitter/download/component-emitter-1.2.1.tgz#137918d6d78283f7df7a6b7c5a63e140e69425e6"
   integrity sha1-E3kY1teCg/ffemt8WmPhQOaUJeY=
 
 component-emitter@^1.2.0, component-emitter@^1.2.1:
@@ -2110,7 +2110,7 @@ component-emitter@^1.2.0, component-emitter@^1.2.1:
 
 component-inherit@0.0.3:
   version "0.0.3"
-  resolved "http://r.cnpmjs.org/component-inherit/download/component-inherit-0.0.3.tgz#645fc4adf58b72b649d5cae65135619db26ff143"
+  resolved "https://r.cnpmjs.org/component-inherit/download/component-inherit-0.0.3.tgz#645fc4adf58b72b649d5cae65135619db26ff143"
   integrity sha1-ZF/ErfWLcrZJ1crmUTVhnbJv8UM=
 
 concat-map@0.0.1:
@@ -2174,7 +2174,7 @@ cookie-signature@1.0.6:
 
 cookie@0.3.1:
   version "0.3.1"
-  resolved "http://r.cnpmjs.org/cookie/download/cookie-0.3.1.tgz#e7e0a1f9ef43b4c8ba925c5c5a96e806d16873bb"
+  resolved "https://r.cnpmjs.org/cookie/download/cookie-0.3.1.tgz#e7e0a1f9ef43b4c8ba925c5c5a96e806d16873bb"
   integrity sha1-5+Ch+e9DtMi6klxcWpboBtFoc7s=
 
 cookie@0.4.0:
@@ -2250,7 +2250,7 @@ create-hmac@^1.1.0, create-hmac@^1.1.2, create-hmac@^1.1.4:
 
 cross-env@^7.0.2:
   version "7.0.2"
-  resolved "http://r.cnpmjs.org/cross-env/download/cross-env-7.0.2.tgz#bd5ed31339a93a3418ac4f3ca9ca3403082ae5f9"
+  resolved "https://r.cnpmjs.org/cross-env/download/cross-env-7.0.2.tgz#bd5ed31339a93a3418ac4f3ca9ca3403082ae5f9"
   integrity sha1-vV7TEzmpOjQYrE88qco0Awgq5fk=
   dependencies:
     cross-spawn "^7.0.1"
@@ -2340,7 +2340,7 @@ data-urls@^1.1.0:
 
 dayjs@^1.8.27:
   version "1.8.27"
-  resolved "http://r.cnpmjs.org/dayjs/download/dayjs-1.8.27.tgz#a8ae63ee990af28c05c430f0e160ae835a0fbbf8"
+  resolved "https://r.cnpmjs.org/dayjs/download/dayjs-1.8.27.tgz#a8ae63ee990af28c05c430f0e160ae835a0fbbf8"
   integrity sha1-qK5j7pkK8owFxDDw4WCug1oPu/g=
 
 debug@2.6.9, debug@^2.2.0, debug@^2.3.3, debug@^2.6.9, debug@~2.6.8:
@@ -2377,9 +2377,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-is@~0.1.3:
   version "0.1.3"
@@ -2434,7 +2434,7 @@ delayed-stream@~1.0.0:
 
 denque@^1.1.0:
   version "1.4.1"
-  resolved "http://r.cnpmjs.org/denque/download/denque-1.4.1.tgz#6744ff7641c148c3f8a69c307e51235c1f4a37cf"
+  resolved "https://r.cnpmjs.org/denque/download/denque-1.4.1.tgz#6744ff7641c148c3f8a69c307e51235c1f4a37cf"
   integrity sha1-Z0T/dkHBSMP4ppwwflEjXB9KN88=
 
 depd@~1.1.2:
@@ -2516,12 +2516,12 @@ domexception@^1.0.1:
 
 dotenv-expand@5.1.0:
   version "5.1.0"
-  resolved "http://r.cnpmjs.org/dotenv-expand/download/dotenv-expand-5.1.0.tgz#3fbaf020bfd794884072ea26b1e9791d45a629f0"
+  resolved "https://r.cnpmjs.org/dotenv-expand/download/dotenv-expand-5.1.0.tgz#3fbaf020bfd794884072ea26b1e9791d45a629f0"
   integrity sha1-P7rwIL/XlIhAcuomsel5HUWmKfA=
 
 dotenv@8.2.0:
   version "8.2.0"
-  resolved "http://r.cnpmjs.org/dotenv/download/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
+  resolved "https://r.cnpmjs.org/dotenv/download/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
   integrity sha1-l+YZJZradQ7qPk6j4mvO6lQksWo=
 
 dotenv@^6.2.0:
@@ -2531,7 +2531,7 @@ dotenv@^6.2.0:
 
 double-ended-queue@^2.1.0-0:
   version "2.1.0-0"
-  resolved "http://r.cnpmjs.org/double-ended-queue/download/double-ended-queue-2.1.0-0.tgz#103d3527fd31528f40188130c841efdd78264e5c"
+  resolved "https://r.cnpmjs.org/double-ended-queue/download/double-ended-queue-2.1.0-0.tgz#103d3527fd31528f40188130c841efdd78264e5c"
   integrity sha1-ED01J/0xUo9AGIEwyEHv3XgmTlw=
 
 duplexify@^3.4.2, duplexify@^3.6.0:
@@ -2554,7 +2554,7 @@ ecc-jsbn@~0.1.1:
 
 ecdsa-sig-formatter@1.0.11:
   version "1.0.11"
-  resolved "http://r.cnpmjs.org/ecdsa-sig-formatter/download/ecdsa-sig-formatter-1.0.11.tgz#ae0f0fa2d85045ef14a817daa3ce9acd0489e5bf"
+  resolved "https://r.cnpmjs.org/ecdsa-sig-formatter/download/ecdsa-sig-formatter-1.0.11.tgz#ae0f0fa2d85045ef14a817daa3ce9acd0489e5bf"
   integrity sha1-rg8PothQRe8UqBfao86azQSJ5b8=
   dependencies:
     safe-buffer "^5.0.1"
@@ -2606,7 +2606,7 @@ end-of-stream@^1.0.0, end-of-stream@^1.1.0:
 
 engine.io-client@~3.4.0:
   version "3.4.1"
-  resolved "http://r.cnpmjs.org/engine.io-client/download/engine.io-client-3.4.1.tgz#922ddb47eecdcb541136a93aeead24718fd05461"
+  resolved "https://r.cnpmjs.org/engine.io-client/download/engine.io-client-3.4.1.tgz#922ddb47eecdcb541136a93aeead24718fd05461"
   integrity sha1-ki3bR+7Ny1QRNqk67q0kcY/QVGE=
   dependencies:
     component-emitter "1.2.1"
@@ -2623,7 +2623,7 @@ engine.io-client@~3.4.0:
 
 engine.io-parser@~2.2.0:
   version "2.2.0"
-  resolved "http://r.cnpmjs.org/engine.io-parser/download/engine.io-parser-2.2.0.tgz#312c4894f57d52a02b420868da7b5c1c84af80ed"
+  resolved "https://r.cnpmjs.org/engine.io-parser/download/engine.io-parser-2.2.0.tgz#312c4894f57d52a02b420868da7b5c1c84af80ed"
   integrity sha1-MSxIlPV9UqArQgho2ntcHISvgO0=
   dependencies:
     after "0.8.2"
@@ -2634,7 +2634,7 @@ engine.io-parser@~2.2.0:
 
 engine.io@~3.4.0:
   version "3.4.1"
-  resolved "http://r.cnpmjs.org/engine.io/download/engine.io-3.4.1.tgz#a61cbc13fa0cb27d9453fd079a29ee980564b069"
+  resolved "https://r.cnpmjs.org/engine.io/download/engine.io-3.4.1.tgz#a61cbc13fa0cb27d9453fd079a29ee980564b069"
   integrity sha1-phy8E/oMsn2UU/0HminumAVksGk=
   dependencies:
     accepts "~1.3.4"
@@ -3337,7 +3337,7 @@ fs-extra@8.1.0:
 
 fs-extra@^9.0.0:
   version "9.0.0"
-  resolved "http://r.cnpmjs.org/fs-extra/download/fs-extra-9.0.0.tgz#b6afc31036e247b2466dc99c29ae797d5d4580a3"
+  resolved "https://r.cnpmjs.org/fs-extra/download/fs-extra-9.0.0.tgz#b6afc31036e247b2466dc99c29ae797d5d4580a3"
   integrity sha1-tq/DEDbiR7JGbcmcKa55fV1FgKM=
   dependencies:
     at-least-node "^1.0.0"
@@ -3500,14 +3500,14 @@ has-ansi@^2.0.0:
 
 has-binary2@~1.0.2:
   version "1.0.3"
-  resolved "http://r.cnpmjs.org/has-binary2/download/has-binary2-1.0.3.tgz#7776ac627f3ea77250cfc332dab7ddf5e4f5d11d"
+  resolved "https://r.cnpmjs.org/has-binary2/download/has-binary2-1.0.3.tgz#7776ac627f3ea77250cfc332dab7ddf5e4f5d11d"
   integrity sha1-d3asYn8+p3JQz8My2rfd9eT10R0=
   dependencies:
     isarray "2.0.1"
 
 has-cors@1.1.0:
   version "1.1.0"
-  resolved "http://r.cnpmjs.org/has-cors/download/has-cors-1.1.0.tgz#5e474793f7ea9843d1bb99c23eef49ff126fff39"
+  resolved "https://r.cnpmjs.org/has-cors/download/has-cors-1.1.0.tgz#5e474793f7ea9843d1bb99c23eef49ff126fff39"
   integrity sha1-XkdHk/fqmEPRu5nCPu9J/xJv/zk=
 
 has-flag@^3.0.0:
@@ -3696,7 +3696,7 @@ imurmurhash@^0.1.4:
 
 indexof@0.0.1:
   version "0.0.1"
-  resolved "http://r.cnpmjs.org/indexof/download/indexof-0.0.1.tgz#82dc336d232b9062179d05ab3293a66059fd435d"
+  resolved "https://r.cnpmjs.org/indexof/download/indexof-0.0.1.tgz#82dc336d232b9062179d05ab3293a66059fd435d"
   integrity sha1-gtwzbSMrkGIXnQWrMpOmYFn9Q10=
 
 infer-owner@^1.0.3:
@@ -3753,7 +3753,7 @@ interpret@^1.0.0:
 
 ioredis@^4.2.0:
   version "4.16.3"
-  resolved "http://r.cnpmjs.org/ioredis/download/ioredis-4.16.3.tgz#6a6b85830206fd98353b7ff8536521f17943be53"
+  resolved "https://r.cnpmjs.org/ioredis/download/ioredis-4.16.3.tgz#6a6b85830206fd98353b7ff8536521f17943be53"
   integrity sha1-amuFgwIG/Zg1O3/4U2Uh8XlDvlM=
   dependencies:
     cluster-key-slot "^1.1.0"
@@ -3816,7 +3816,7 @@ is-buffer@^1.1.5:
 
 is-buffer@^2.0.2:
   version "2.0.4"
-  resolved "http://r.cnpmjs.org/is-buffer/download/is-buffer-2.0.4.tgz#3e572f23c8411a5cfd9557c849e3665e0b290623"
+  resolved "https://r.cnpmjs.org/is-buffer/download/is-buffer-2.0.4.tgz#3e572f23c8411a5cfd9557c849e3665e0b290623"
   integrity sha1-PlcvI8hBGlz9lVfISeNmXgspBiM=
 
 is-callable@^1.1.4, is-callable@^1.1.5:
@@ -4004,7 +4004,7 @@ isarray@1.0.0, isarray@^1.0.0, isarray@~1.0.0:
 
 isarray@2.0.1:
   version "2.0.1"
-  resolved "http://r.cnpmjs.org/isarray/download/isarray-2.0.1.tgz#a37d94ed9cda2d59865c9f76fe596ee1f338741e"
+  resolved "https://r.cnpmjs.org/isarray/download/isarray-2.0.1.tgz#a37d94ed9cda2d59865c9f76fe596ee1f338741e"
   integrity sha1-o32U7ZzaLVmGXJ92/llu4fM4dB4=
 
 isexe@^2.0.0:
@@ -4539,7 +4539,7 @@ jsonfile@^4.0.0:
 
 jsonfile@^6.0.1:
   version "6.0.1"
-  resolved "http://r.cnpmjs.org/jsonfile/download/jsonfile-6.0.1.tgz#98966cba214378c8c84b82e085907b40bf614179"
+  resolved "https://r.cnpmjs.org/jsonfile/download/jsonfile-6.0.1.tgz#98966cba214378c8c84b82e085907b40bf614179"
   integrity sha1-mJZsuiFDeMjIS4LghZB7QL9hQXk=
   dependencies:
     universalify "^1.0.0"
@@ -4548,7 +4548,7 @@ jsonfile@^6.0.1:
 
 jsonwebtoken@8.5.1, jsonwebtoken@^8.2.0:
   version "8.5.1"
-  resolved "http://r.cnpmjs.org/jsonwebtoken/download/jsonwebtoken-8.5.1.tgz#00e71e0b8df54c2121a1f26137df2280673bcc0d"
+  resolved "https://r.cnpmjs.org/jsonwebtoken/download/jsonwebtoken-8.5.1.tgz#00e71e0b8df54c2121a1f26137df2280673bcc0d"
   integrity sha1-AOceC431TCEhofJhN98igGc7zA0=
   dependencies:
     jws "^3.2.2"
@@ -4574,7 +4574,7 @@ jsprim@^1.2.2:
 
 jwa@^1.4.1:
   version "1.4.1"
-  resolved "http://r.cnpmjs.org/jwa/download/jwa-1.4.1.tgz#743c32985cb9e98655530d53641b66c8645b039a"
+  resolved "https://r.cnpmjs.org/jwa/download/jwa-1.4.1.tgz#743c32985cb9e98655530d53641b66c8645b039a"
   integrity sha1-dDwymFy56YZVUw1TZBtmyGRbA5o=
   dependencies:
     buffer-equal-constant-time "1.0.1"
@@ -4583,7 +4583,7 @@ jwa@^1.4.1:
 
 jws@^3.2.2:
   version "3.2.2"
-  resolved "http://r.cnpmjs.org/jws/download/jws-3.2.2.tgz#001099f3639468c9414000e99995fa52fb478304"
+  resolved "https://r.cnpmjs.org/jws/download/jws-3.2.2.tgz#001099f3639468c9414000e99995fa52fb478304"
   integrity sha1-ABCZ82OUaMlBQADpmZX6UvtHgwQ=
   dependencies:
     jwa "^1.4.1"
@@ -4680,47 +4680,47 @@ locate-path@^5.0.0:
 
 lodash.defaults@^4.2.0:
   version "4.2.0"
-  resolved "http://r.cnpmjs.org/lodash.defaults/download/lodash.defaults-4.2.0.tgz#d09178716ffea4dde9e5fb7b37f6f0802274580c"
+  resolved "https://r.cnpmjs.org/lodash.defaults/download/lodash.defaults-4.2.0.tgz#d09178716ffea4dde9e5fb7b37f6f0802274580c"
   integrity sha1-0JF4cW/+pN3p5ft7N/bwgCJ0WAw=
 
 lodash.flatten@^4.4.0:
   version "4.4.0"
-  resolved "http://r.cnpmjs.org/lodash.flatten/download/lodash.flatten-4.4.0.tgz#f31c22225a9632d2bbf8e4addbef240aa765a61f"
+  resolved "https://r.cnpmjs.org/lodash.flatten/download/lodash.flatten-4.4.0.tgz#f31c22225a9632d2bbf8e4addbef240aa765a61f"
   integrity sha1-8xwiIlqWMtK7+OSt2+8kCqdlph8=
 
 lodash.get@4.4.2:
   version "4.4.2"
-  resolved "http://r.cnpmjs.org/lodash.get/download/lodash.get-4.4.2.tgz#2d177f652fa31e939b4438d5341499dfa3825e99"
+  resolved "https://r.cnpmjs.org/lodash.get/download/lodash.get-4.4.2.tgz#2d177f652fa31e939b4438d5341499dfa3825e99"
   integrity sha1-LRd/ZS+jHpObRDjVNBSZ36OCXpk=
 
 lodash.includes@^4.3.0:
   version "4.3.0"
-  resolved "http://r.cnpmjs.org/lodash.includes/download/lodash.includes-4.3.0.tgz#60bb98a87cb923c68ca1e51325483314849f553f"
+  resolved "https://r.cnpmjs.org/lodash.includes/download/lodash.includes-4.3.0.tgz#60bb98a87cb923c68ca1e51325483314849f553f"
   integrity sha1-YLuYqHy5I8aMoeUTJUgzFISfVT8=
 
 lodash.isboolean@^3.0.3:
   version "3.0.3"
-  resolved "http://r.cnpmjs.org/lodash.isboolean/download/lodash.isboolean-3.0.3.tgz#6c2e171db2a257cd96802fd43b01b20d5f5870f6"
+  resolved "https://r.cnpmjs.org/lodash.isboolean/download/lodash.isboolean-3.0.3.tgz#6c2e171db2a257cd96802fd43b01b20d5f5870f6"
   integrity sha1-bC4XHbKiV82WgC/UOwGyDV9YcPY=
 
 lodash.isinteger@^4.0.4:
   version "4.0.4"
-  resolved "http://r.cnpmjs.org/lodash.isinteger/download/lodash.isinteger-4.0.4.tgz#619c0af3d03f8b04c31f5882840b77b11cd68343"
+  resolved "https://r.cnpmjs.org/lodash.isinteger/download/lodash.isinteger-4.0.4.tgz#619c0af3d03f8b04c31f5882840b77b11cd68343"
   integrity sha1-YZwK89A/iwTDH1iChAt3sRzWg0M=
 
 lodash.isnumber@^3.0.3:
   version "3.0.3"
-  resolved "http://r.cnpmjs.org/lodash.isnumber/download/lodash.isnumber-3.0.3.tgz#3ce76810c5928d03352301ac287317f11c0b1ffc"
+  resolved "https://r.cnpmjs.org/lodash.isnumber/download/lodash.isnumber-3.0.3.tgz#3ce76810c5928d03352301ac287317f11c0b1ffc"
   integrity sha1-POdoEMWSjQM1IwGsKHMX8RwLH/w=
 
 lodash.isplainobject@^4.0.6:
   version "4.0.6"
-  resolved "http://r.cnpmjs.org/lodash.isplainobject/download/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
+  resolved "https://r.cnpmjs.org/lodash.isplainobject/download/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
   integrity sha1-fFJqUtibRcRcxpC4gWO+BJf1UMs=
 
 lodash.isstring@^4.0.1:
   version "4.0.1"
-  resolved "http://r.cnpmjs.org/lodash.isstring/download/lodash.isstring-4.0.1.tgz#d527dfb5456eca7cc9bb95d5daeaf88ba54a5451"
+  resolved "https://r.cnpmjs.org/lodash.isstring/download/lodash.isstring-4.0.1.tgz#d527dfb5456eca7cc9bb95d5daeaf88ba54a5451"
   integrity sha1-1SfftUVuynzJu5XV2ur4i6VKVFE=
 
 lodash.memoize@4.x:
@@ -4730,12 +4730,12 @@ lodash.memoize@4.x:
 
 lodash.once@^4.0.0:
   version "4.1.1"
-  resolved "http://r.cnpmjs.org/lodash.once/download/lodash.once-4.1.1.tgz#0dd3971213c7c56df880977d504c88fb471a97ac"
+  resolved "https://r.cnpmjs.org/lodash.once/download/lodash.once-4.1.1.tgz#0dd3971213c7c56df880977d504c88fb471a97ac"
   integrity sha1-DdOXEhPHxW34gJd9UEyI+0cal6w=
 
 lodash.set@4.3.2:
   version "4.3.2"
-  resolved "http://r.cnpmjs.org/lodash.set/download/lodash.set-4.3.2.tgz#d8757b1da807dde24816b0d6a84bea1a76230b23"
+  resolved "https://r.cnpmjs.org/lodash.set/download/lodash.set-4.3.2.tgz#d8757b1da807dde24816b0d6a84bea1a76230b23"
   integrity sha1-2HV7HagH3eJIFrDWqEvqGnYjCyM=
 
 lodash.sortby@^4.7.0:
@@ -5117,7 +5117,7 @@ neo-async@^2.5.0, neo-async@^2.6.1:
 
 nestjs-redis@^1.2.7:
   version "1.2.7"
-  resolved "http://r.cnpmjs.org/nestjs-redis/download/nestjs-redis-1.2.7.tgz#5ff98ece039b739f52741d39734e05ff639a3d10"
+  resolved "https://r.cnpmjs.org/nestjs-redis/download/nestjs-redis-1.2.7.tgz#5ff98ece039b739f52741d39734e05ff639a3d10"
   integrity sha1-X/mOzgObc59SdB05c04F/2OaPRA=
   dependencies:
     "@nestjs/common" "6.3.1"
@@ -5230,7 +5230,7 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
 
 notepack.io@~2.1.2:
   version "2.1.3"
-  resolved "http://r.cnpmjs.org/notepack.io/download/notepack.io-2.1.3.tgz#cc904045c751b1a27b2dcfd838d81d0bf3ced923"
+  resolved "https://r.cnpmjs.org/notepack.io/download/notepack.io-2.1.3.tgz#cc904045c751b1a27b2dcfd838d81d0bf3ced923"
   integrity sha1-zJBARcdRsaJ7Lc/YONgdC/PO2SM=
 
 npm-run-path@^2.0.0:
@@ -5249,7 +5249,7 @@ npm-run-path@^4.0.0:
 
 nuid@^1.1.4:
   version "1.1.4"
-  resolved "http://r.cnpmjs.org/nuid/download/nuid-1.1.4.tgz#6145710b6cc9ef0df7b94af09c6d750925939097"
+  resolved "https://r.cnpmjs.org/nuid/download/nuid-1.1.4.tgz#6145710b6cc9ef0df7b94af09c6d750925939097"
   integrity sha1-YUVxC2zJ7w33uUrwnG11CSWTkJc=
 
 nwsapi@^2.2.0:
@@ -5269,7 +5269,7 @@ object-assign@^4, object-assign@^4.0.1, object-assign@^4.1.0, object-assign@^4.1
 
 object-component@0.0.3:
   version "0.0.3"
-  resolved "http://r.cnpmjs.org/object-component/download/object-component-0.0.3.tgz#f0c69aa50efc95b866c186f400a33769cb2f1291"
+  resolved "https://r.cnpmjs.org/object-component/download/object-component-0.0.3.tgz#f0c69aa50efc95b866c186f400a33769cb2f1291"
   integrity sha1-8MaapQ78lbhmwYb0AKM3acsvEpE=
 
 object-copy@^0.1.0:
@@ -5537,14 +5537,14 @@ parse5@^5.1.1:
 
 parseqs@0.0.5:
   version "0.0.5"
-  resolved "http://r.cnpmjs.org/parseqs/download/parseqs-0.0.5.tgz#d5208a3738e46766e291ba2ea173684921a8b89d"
+  resolved "https://r.cnpmjs.org/parseqs/download/parseqs-0.0.5.tgz#d5208a3738e46766e291ba2ea173684921a8b89d"
   integrity sha1-1SCKNzjkZ2bikbouoXNoSSGouJ0=
   dependencies:
     better-assert "~1.0.0"
 
 parseuri@0.0.5:
   version "0.0.5"
-  resolved "http://r.cnpmjs.org/parseuri/download/parseuri-0.0.5.tgz#80204a50d4dbb779bfdc6ebe2778d90e4bce320a"
+  resolved "https://r.cnpmjs.org/parseuri/download/parseuri-0.0.5.tgz#80204a50d4dbb779bfdc6ebe2778d90e4bce320a"
   integrity sha1-gCBKUNTbt3m/3G6+J3jZDkvOMgo=
   dependencies:
     better-assert "~1.0.0"
@@ -5561,7 +5561,7 @@ pascalcase@^0.1.1:
 
 passport-jwt@^4.0.0:
   version "4.0.0"
-  resolved "http://r.cnpmjs.org/passport-jwt/download/passport-jwt-4.0.0.tgz#7f0be7ba942e28b9f5d22c2ebbb8ce96ef7cf065"
+  resolved "https://r.cnpmjs.org/passport-jwt/download/passport-jwt-4.0.0.tgz#7f0be7ba942e28b9f5d22c2ebbb8ce96ef7cf065"
   integrity sha1-fwvnupQuKLn10iwuu7jOlu988GU=
   dependencies:
     jsonwebtoken "^8.2.0"
@@ -5569,19 +5569,19 @@ passport-jwt@^4.0.0:
 
 passport-local@^1.0.0:
   version "1.0.0"
-  resolved "http://r.cnpmjs.org/passport-local/download/passport-local-1.0.0.tgz#1fe63268c92e75606626437e3b906662c15ba6ee"
+  resolved "https://r.cnpmjs.org/passport-local/download/passport-local-1.0.0.tgz#1fe63268c92e75606626437e3b906662c15ba6ee"
   integrity sha1-H+YyaMkudWBmJkN+O5BmYsFbpu4=
   dependencies:
     passport-strategy "1.x.x"
 
 passport-strategy@1.x.x, passport-strategy@^1.0.0:
   version "1.0.0"
-  resolved "http://r.cnpmjs.org/passport-strategy/download/passport-strategy-1.0.0.tgz#b5539aa8fc225a3d1ad179476ddf236b440f52e4"
+  resolved "https://r.cnpmjs.org/passport-strategy/download/passport-strategy-1.0.0.tgz#b5539aa8fc225a3d1ad179476ddf236b440f52e4"
   integrity sha1-tVOaqPwiWj0a0XlHbd8ja0QPUuQ=
 
 passport@^0.4.1:
   version "0.4.1"
-  resolved "http://r.cnpmjs.org/passport/download/passport-0.4.1.tgz#941446a21cb92fc688d97a0861c38ce9f738f270"
+  resolved "https://r.cnpmjs.org/passport/download/passport-0.4.1.tgz#941446a21cb92fc688d97a0861c38ce9f738f270"
   integrity sha1-lBRGohy5L8aI2XoIYcOM6fc48nA=
   dependencies:
     passport-strategy "1.x.x"
@@ -5646,7 +5646,7 @@ path-type@^2.0.0:
 
 pause@0.0.1:
   version "0.0.1"
-  resolved "http://r.cnpmjs.org/pause/download/pause-0.0.1.tgz#1d408b3fdb76923b9543d96fb4c9dfd535d9cb5d"
+  resolved "https://r.cnpmjs.org/pause/download/pause-0.0.1.tgz#1d408b3fdb76923b9543d96fb4c9dfd535d9cb5d"
   integrity sha1-HUCLP9t2kjuVQ9lvtMnf1TXZy10=
 
 pbkdf2@^3.0.3:
@@ -5966,29 +5966,29 @@ rechoir@^0.6.2:
 
 redis-commands@1.5.0, redis-commands@^1.2.0:
   version "1.5.0"
-  resolved "http://r.cnpmjs.org/redis-commands/download/redis-commands-1.5.0.tgz#80d2e20698fe688f227127ff9e5164a7dd17e785"
+  resolved "https://r.cnpmjs.org/redis-commands/download/redis-commands-1.5.0.tgz#80d2e20698fe688f227127ff9e5164a7dd17e785"
   integrity sha1-gNLiBpj+aI8icSf/nlFkp90X54U=
 
 redis-errors@^1.0.0, redis-errors@^1.2.0:
   version "1.2.0"
-  resolved "http://r.cnpmjs.org/redis-errors/download/redis-errors-1.2.0.tgz#eb62d2adb15e4eaf4610c04afe1529384250abad"
+  resolved "https://r.cnpmjs.org/redis-errors/download/redis-errors-1.2.0.tgz#eb62d2adb15e4eaf4610c04afe1529384250abad"
   integrity sha1-62LSrbFeTq9GEMBK/hUpOEJQq60=
 
 redis-parser@^2.6.0:
   version "2.6.0"
-  resolved "http://r.cnpmjs.org/redis-parser/download/redis-parser-2.6.0.tgz#52ed09dacac108f1a631c07e9b69941e7a19504b"
+  resolved "https://r.cnpmjs.org/redis-parser/download/redis-parser-2.6.0.tgz#52ed09dacac108f1a631c07e9b69941e7a19504b"
   integrity sha1-Uu0J2srBCPGmMcB+m2mUHnoZUEs=
 
 redis-parser@^3.0.0:
   version "3.0.0"
-  resolved "http://r.cnpmjs.org/redis-parser/download/redis-parser-3.0.0.tgz#b66d828cdcafe6b4b8a428a7def4c6bcac31c8b4"
+  resolved "https://r.cnpmjs.org/redis-parser/download/redis-parser-3.0.0.tgz#b66d828cdcafe6b4b8a428a7def4c6bcac31c8b4"
   integrity sha1-tm2CjNyv5rS4pCin3vTGvKwxyLQ=
   dependencies:
     redis-errors "^1.0.0"
 
 redis@~2.8.0:
   version "2.8.0"
-  resolved "http://r.cnpmjs.org/redis/download/redis-2.8.0.tgz#202288e3f58c49f6079d97af7a10e1303ae14b02"
+  resolved "https://r.cnpmjs.org/redis/download/redis-2.8.0.tgz#202288e3f58c49f6079d97af7a10e1303ae14b02"
   integrity sha1-ICKI4/WMSfYHnZevehDhMDrhSwI=
   dependencies:
     double-ended-queue "^2.1.0-0"
@@ -6196,7 +6196,7 @@ rxjs@6.5.4, rxjs@^6.5.3, rxjs@^6.5.4:
 
 rxjs@^6.2.2:
   version "6.5.5"
-  resolved "http://r.cnpmjs.org/rxjs/download/rxjs-6.5.5.tgz#c5c884e3094c8cfee31bf27eb87e54ccfc87f9ec"
+  resolved "https://r.cnpmjs.org/rxjs/download/rxjs-6.5.5.tgz#c5c884e3094c8cfee31bf27eb87e54ccfc87f9ec"
   integrity sha1-xciE4wlMjP7jG/J+uH5UzPyH+ew=
   dependencies:
     tslib "^1.9.0"
@@ -6430,12 +6430,12 @@ snapdragon@^0.8.1:
 
 socket.io-adapter@~1.1.0:
   version "1.1.2"
-  resolved "http://r.cnpmjs.org/socket.io-adapter/download/socket.io-adapter-1.1.2.tgz#ab3f0d6f66b8fc7fca3959ab5991f82221789be9"
+  resolved "https://r.cnpmjs.org/socket.io-adapter/download/socket.io-adapter-1.1.2.tgz#ab3f0d6f66b8fc7fca3959ab5991f82221789be9"
   integrity sha1-qz8Nb2a4/H/KOVmrWZH4IiF4m+k=
 
 socket.io-client@2.3.0:
   version "2.3.0"
-  resolved "http://r.cnpmjs.org/socket.io-client/download/socket.io-client-2.3.0.tgz#14d5ba2e00b9bcd145ae443ab96b3f86cbcc1bb4"
+  resolved "https://r.cnpmjs.org/socket.io-client/download/socket.io-client-2.3.0.tgz#14d5ba2e00b9bcd145ae443ab96b3f86cbcc1bb4"
   integrity sha1-FNW6LgC5vNFFrkQ6uWs/hsvMG7Q=
   dependencies:
     backo2 "1.0.2"
@@ -6455,7 +6455,7 @@ socket.io-client@2.3.0:
 
 socket.io-parser@~3.3.0:
   version "3.3.0"
-  resolved "http://r.cnpmjs.org/socket.io-parser/download/socket.io-parser-3.3.0.tgz#2b52a96a509fdf31440ba40fed6094c7d4f1262f"
+  resolved "https://r.cnpmjs.org/socket.io-parser/download/socket.io-parser-3.3.0.tgz#2b52a96a509fdf31440ba40fed6094c7d4f1262f"
   integrity sha1-K1KpalCf3zFEC6QP7WCUx9TxJi8=
   dependencies:
     component-emitter "1.2.1"
@@ -6464,7 +6464,7 @@ socket.io-parser@~3.3.0:
 
 socket.io-parser@~3.4.0:
   version "3.4.0"
-  resolved "http://r.cnpmjs.org/socket.io-parser/download/socket.io-parser-3.4.0.tgz#370bb4a151df2f77ce3345ff55a7072cc6e9565a"
+  resolved "https://r.cnpmjs.org/socket.io-parser/download/socket.io-parser-3.4.0.tgz#370bb4a151df2f77ce3345ff55a7072cc6e9565a"
   integrity sha1-Nwu0oVHfL3fOM0X/VacHLMbpVlo=
   dependencies:
     component-emitter "1.2.1"
@@ -6473,7 +6473,7 @@ socket.io-parser@~3.4.0:
 
 socket.io-redis@^5.2.0:
   version "5.2.0"
-  resolved "http://r.cnpmjs.org/socket.io-redis/download/socket.io-redis-5.2.0.tgz#8fe2ad9445fc50886fb70abc759d67403d5899df"
+  resolved "https://r.cnpmjs.org/socket.io-redis/download/socket.io-redis-5.2.0.tgz#8fe2ad9445fc50886fb70abc759d67403d5899df"
   integrity sha1-j+KtlEX8UIhvtwq8dZ1nQD1Ymd8=
   dependencies:
     debug "~2.6.8"
@@ -6484,7 +6484,7 @@ socket.io-redis@^5.2.0:
 
 socket.io@2.3.0:
   version "2.3.0"
-  resolved "http://r.cnpmjs.org/socket.io/download/socket.io-2.3.0.tgz#cd762ed6a4faeca59bc1f3e243c0969311eb73fb"
+  resolved "https://r.cnpmjs.org/socket.io/download/socket.io-2.3.0.tgz#cd762ed6a4faeca59bc1f3e243c0969311eb73fb"
   integrity sha1-zXYu1qT67KWbwfPiQ8CWkxHrc/s=
   dependencies:
     debug "~4.1.0"
@@ -6615,7 +6615,7 @@ stack-utils@^1.0.1:
 
 standard-as-callback@^2.0.1:
   version "2.0.1"
-  resolved "http://r.cnpmjs.org/standard-as-callback/download/standard-as-callback-2.0.1.tgz#ed8bb25648e15831759b6023bdb87e6b60b38126"
+  resolved "https://r.cnpmjs.org/standard-as-callback/download/standard-as-callback-2.0.1.tgz#ed8bb25648e15831759b6023bdb87e6b60b38126"
   integrity sha1-7YuyVkjhWDF1m2Ajvbh+a2CzgSY=
 
 static-extend@^0.1.1:
@@ -6990,7 +6990,7 @@ tmpl@1.0.x:
 
 to-array@0.1.4:
   version "0.1.4"
-  resolved "http://r.cnpmjs.org/to-array/download/to-array-0.1.4.tgz#17e6c11f73dd4f3d74cda7a4ff3238e9ad9bf890"
+  resolved "https://r.cnpmjs.org/to-array/download/to-array-0.1.4.tgz#17e6c11f73dd4f3d74cda7a4ff3238e9ad9bf890"
   integrity sha1-F+bBH3PdTz10zaek/zI46a2b+JA=
 
 to-arraybuffer@^1.0.0:
@@ -7235,7 +7235,7 @@ typescript@^3.6.4, typescript@^3.7.4:
 
 uid2@0.0.3:
   version "0.0.3"
-  resolved "http://r.cnpmjs.org/uid2/download/uid2-0.0.3.tgz#483126e11774df2f71b8b639dcd799c376162b82"
+  resolved "https://r.cnpmjs.org/uid2/download/uid2-0.0.3.tgz#483126e11774df2f71b8b639dcd799c376162b82"
   integrity sha1-SDEm4Rd03y9xuLY53NeZw3YWK4I=
 
 union-value@^1.0.0:
@@ -7269,7 +7269,7 @@ universalify@^0.1.0:
 
 universalify@^1.0.0:
   version "1.0.0"
-  resolved "http://r.cnpmjs.org/universalify/download/universalify-1.0.0.tgz#b61a1da173e8435b2fe3c67d29b9adf8594bd16d"
+  resolved "https://r.cnpmjs.org/universalify/download/universalify-1.0.0.tgz#b61a1da173e8435b2fe3c67d29b9adf8594bd16d"
   integrity sha1-thodoXPoQ1sv48Z9Kbmt+FlL0W0=
 
 unpipe@1.0.0, unpipe@~1.0.0:
@@ -7341,12 +7341,12 @@ utils-merge@1.0.1:
 
 uuid@3.3.2:
   version "3.3.2"
-  resolved "http://r.cnpmjs.org/uuid/download/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
+  resolved "https://r.cnpmjs.org/uuid/download/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha1-G0r0lV6zB3xQHCOHL8ZROBFYcTE=
 
 uuid@7.0.1:
   version "7.0.1"
-  resolved "http://r.cnpmjs.org/uuid/download/uuid-7.0.1.tgz#95ed6ff3d8c881cbf85f0f05cc3915ef994818ef"
+  resolved "https://r.cnpmjs.org/uuid/download/uuid-7.0.1.tgz#95ed6ff3d8c881cbf85f0f05cc3915ef994818ef"
   integrity sha1-le1v89jIgcv4Xw8FzDkV75lIGO8=
 
 uuid@7.0.2:
@@ -7604,7 +7604,7 @@ ws@^7.0.0, ws@^7.1.2:
 
 ws@~6.1.0:
   version "6.1.4"
-  resolved "http://r.cnpmjs.org/ws/download/ws-6.1.4.tgz#5b5c8800afab925e94ccb29d153c8d02c1776ef9"
+  resolved "https://r.cnpmjs.org/ws/download/ws-6.1.4.tgz#5b5c8800afab925e94ccb29d153c8d02c1776ef9"
   integrity sha1-W1yIAK+rkl6UzLKdFTyNAsF3bvk=
   dependencies:
     async-limiter "~1.0.0"
@@ -7634,7 +7634,7 @@ xmlchars@^2.1.1:
 
 xmlhttprequest-ssl@~1.5.4:
   version "1.5.5"
-  resolved "http://r.cnpmjs.org/xmlhttprequest-ssl/download/xmlhttprequest-ssl-1.5.5.tgz#c2876b06168aadc40e57d97e81191ac8f4398b3e"
+  resolved "https://r.cnpmjs.org/xmlhttprequest-ssl/download/xmlhttprequest-ssl-1.5.5.tgz#c2876b06168aadc40e57d97e81191ac8f4398b3e"
   integrity sha1-wodrBhaKrcQOV9l+gRkayPQ5iz4=
 
 xtend@^4.0.0, xtend@~4.0.1:
@@ -7725,7 +7725,7 @@ yarn@^1.22.4:
 
 yeast@0.1.2:
   version "0.1.2"
-  resolved "http://r.cnpmjs.org/yeast/download/yeast-0.1.2.tgz#008e06d8094320c372dbc2f8ed76a0ca6c8ac419"
+  resolved "https://r.cnpmjs.org/yeast/download/yeast-0.1.2.tgz#008e06d8094320c372dbc2f8ed76a0ca6c8ac419"
   integrity sha1-AI4G2AlDIMNy28L47XagymyKxBk=
 
 yn@3.1.1:
